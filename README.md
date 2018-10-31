@@ -7,3 +7,4 @@
 * [Responsive Manifesto](http://www.responsive.org/manifesto/)
 * [Contrast Rebellion](https://contrastrebellion.com/)
 * [Co-operative Technologists Manifesto](https://www.coops.tech/manifesto)
+* [Repair Manifesto](https://www.ifixit.com/Manifesto)
