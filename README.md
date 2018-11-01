@@ -8,3 +8,4 @@
 * [Contrast Rebellion](https://contrastrebellion.com/)
 * [Co-operative Technologists Manifesto](https://www.coops.tech/manifesto)
 * [Repair Manifesto](https://www.ifixit.com/Manifesto)
+* [The Critical Engineer Manifesto](https://criticalengineering.org/) by [Danja Vasiliev](http://k0a1a.net/), [Gordan Savičić](https://www.yugo.at), and [Julian Oliver](https://julianoliver.com)
