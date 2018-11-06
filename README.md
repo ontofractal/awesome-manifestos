@@ -11,6 +11,6 @@
 * [The Critical Engineer Manifesto](https://criticalengineering.org/) by [Danja Vasiliev](http://k0a1a.net/), [Gordan Savičić](https://www.yugo.at), and [Julian Oliver](https://julianoliver.com)
 * [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) by [indie](http://ind.ie)
 * [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by [Richard Stallman](https://stallman.org)
-
+* [Barcelona Manifesto](http://www.scitechdiplohub.org/manifesto/) by [SciTech DiploHub](http://www.scitechdiplohub.org)
 
 
