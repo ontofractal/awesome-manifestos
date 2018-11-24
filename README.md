@@ -12,5 +12,4 @@
 * [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) by [indie](http://ind.ie)
 * [GNU Manifesto](https://www.gnu.org/gnu/manifesto.html) by [Richard Stallman](https://stallman.org)
 * [Barcelona Manifesto](http://www.scitechdiplohub.org/manifesto/) by [SciTech DiploHub](http://www.scitechdiplohub.org)
-
-
+* [The Public Domain Manifesto](http://www.publicdomainmanifesto.org/index.html) by [Communia](http://communia-project.eu/)
